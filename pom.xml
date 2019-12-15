@@ -64,7 +64,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>1.6.0</version>
 				<configuration>
-					<mainClass>iot.com.example.iot.iot.IotApplication</mainClass>
+					<mainClass>com.example.iot.iot.IotApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
