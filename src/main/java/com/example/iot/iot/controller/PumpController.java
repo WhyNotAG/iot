@@ -9,6 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1/pump")
+@CrossOrigin
 public class PumpController {
     private PumpService pumpService;
 
